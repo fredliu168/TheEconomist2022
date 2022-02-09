@@ -1,0 +1,13 @@
+###### Clamping down
+# They wanted a voice. Cuba’s Communist regime will give them jail 
+##### Around 60 peaceful pro-democracy protesters, some as young as 16, face years behind bars 
+![image](images/20220122_amp502.jpg) 
+> Jan 22nd 2022 
+EMILIO ROMÁN, a resident of La Güinera, a poor neighbourhood in Havana, is the father of three children (pictured), all of whom are currently behind bars. His two sons and daughter, aged 18, 23 and 25, were detained on July 14th last year, after taking part in protests which brought thousands of Cubans out onto the streets. There they demonstrated peacefully against rampant inflation, power outages, and shortages of food and medicine. They also denounced the Communist regime.
+That regime has responded with trumped-up charges which will no doubt lead to harsh punishments. As The Economist went to press, the state was holding a series of closed trials. Some 60 protesters are charged with such crimes as public disorder, resisting arrest, robbery, sabotage and sedition. Mr Román’s youngest son has been told that he may face up to 15 years behind bars, though because of his youth his sentence could be reduced to seven. His older son is looking at 25 years.
+
+Miguel Díaz-Canel, the president, has claimed with a straight face that “there are no political prisoners in Cuba.” In fact there were more than 800 at the end of 2021, according to Prisoners Defenders, a Spanish human-rights organisation. Over 1,000 people were detained after the protests in July. Probably most are still in cells.
+Before the protests last year, most political prisoners were well-known activists and dissidents. By contrast, those being charged this month are welders, art historians, biologists, athletes, taxi drivers and small-business owners. At least five are as young as 16. Laritza Diversent, the director of Cubalex, a charity that provides legal advice to the families of detainees, noticed a surprisingly high number of schoolteachers and doctors, two professions that tend to support the government.
+The regime is clearly spooked by last year’s display of discontent. It is clamping down on any fresh sign of dissent with a new ferocity. A follow-up protest, planned for November, was squashed before it began. Protesters are followed, their phones are tapped and observers are stationed outside their houses. Some have fled abroad to escape such persecution.
+The sentences being doled out this month are unusually harsh and long, even for a one-party state. The idea is to make detainees feel helpless, says Ms Diversent. Sadly, it is working. ■
+
