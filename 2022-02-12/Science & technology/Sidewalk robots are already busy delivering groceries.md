@@ -1,0 +1,15 @@
+###### Sidewalk bots
+# Sidewalk robots are already busy delivering groceries 
+##### But autonomous vehicles are waiting for the green light 
+![image](images/20220212_stp007.jpg) 
+> Feb 12th 2022 
+ALTHOUGH IT IS a business not many are aware of, sidewalk robots are set to become an industry with annual sales of $1bn within a decade, reckons IDTechEx, a British firm of analysts. These four- or six-wheeled autonomous machines, usually the size of a suitcase, are already delivering groceries and other goods in America, China and Europe.
+That puts them ahead of many driverless cars, vans and lorries being developed. Those bigger vehicles are held back not by technology but regulation, says Zehao Li of IDTechEx. This means having a “safety driver” on board ready to take over if there is a problem, which is hardly labour-saving.
+
+For these larger contraptions regulators want to see safety systems thoroughly proved. But there are legal hurdles, too. In January Britain’s Law Commission, which reviews legislation, recommended that it should not be the person in the driver’s seat who faces prosecution if a vehicle in autonomous mode crashes, but the manufacturer or body that sought approval for its use.
+Meanwhile, sidewalk robots are getting on with the job. Among them, Starship Technologies, based in San Francisco, reckons it has already clocked up more than 2.5m deliveries with bots in a number of cities, university campuses and business parks in Europe and America. Amazon is carrying out trials with a similar sort of machine it calls Scout. Kiwibot, a Colombian startup, is making sidewalk deliveries in California.
+Typically, these robots carry a few bags of groceries using a variety of sensors, including cameras, radar and GPS to navigate and avoid obstacles and people. Their progress can be monitored on a phone app, which also unlocks them for goods to be retrieved. As they are small, move slowly (Starship’s bots might reach a heady 6kph) and are “telemonitored” by people in a control room who can take over, authorities seem more willing to give them a green light.
+Such robots are also becoming more autonomous. In January Serve Robotics, another San Franciscan firm whose backers include Uber, a ride-hailing giant, said it had deployed a new sidewalk bot with “level 4” autonomy, which means it can operate without telemonitoring in some predesignated areas.
+Robotic versions which operate on roads but have no driver’s cab are also appearing. Nuro, a Silicon Valley firm, makes one about the size of a small car that can carry 24 bags of groceries. It has chilled and heated compartments for food and drinks. Udelv, also a Californian firm, is developing a larger type called Transporter to operate at highway speeds. Being much further along the road in earning their keep, these delivery bots are helping to pave the way for the time when bigger autonomous vehicles can join them.
+To enjoy more of our mind-expanding science coverage, , our weekly newsletter.
+

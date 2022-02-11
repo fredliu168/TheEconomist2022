@@ -1,0 +1,14 @@
+###### A deadly profession
+# Four journalists have been killed in Mexico this year 
+##### The country remains the most dangerous place in the world to be a member of the press 
+![image](images/20220212_AMP001_0.jpg) 
+> Feb 12th 2022 
+IT WAS LUNCHTIME on January 31st when Roberto Toledo, a 55-year-old video journalist, opened the door. He was shot and later died of his wounds. He was the fourth member of the press to be murdered in Mexico in just one month.
+Mexico has long been a deadly place for journalists. Reporters Without Borders, a watchdog, reckons 47 have been killed over the past five years, the same number as in Afghanistan. More reporters are missing—presumed kidnapped—in Mexico than anywhere else in the world. Even so, the events of recent weeks have shocked many.
+
+The increase in killings is partly because of an overall rise in violence, reckons Jan-Albert Hootsen of the Committee to Protect Journalists, an advocacy group. Over the past five years more than 30,000 people have been murdered annually, a figure which increased up until 2020. A culture of impunity does not help: over 90% of murders go unsolved. Few reckon Mexico’s current strategy for dealing with drug gangs, known as “hugs not bullets”, is working. Threats to journalists also come from corrupt politicians and the police.
+Under the administration of President Andrés Manuel López Obrador, more journalists have been enrolled in a programme which offers bulletproof vests and police protection. But it lacks cash. Mr Hootsen has documented cases of calls going unanswered and paperwork going missing, with fatal consequences. Lourdes Maldonado, a journalist who was enrolled in the programme, was shot dead in Tijuana on January 23rd. In 2019 she had told the president that she feared for her life. A video of the conversation has now gone viral.
+The president has pledged to investigate the latest spate of killings. But he does not always project respect and concern for journalists. Once a week he holds forth at a press conference about “Who’s who in this week’s lies”—in essence, a list of journalists who have annoyed him.
+Journalists at smaller outlets are most at risk. “We can’t have a police officer behind us at all times, but they need a strategy to make us feel safe,” says Jorge Manzo, who works for a local paper. He says he relies for security on “my mother’s prayers” and on letting his friends know beforehand of his movements.
+Outrage is growing. On January 25th hundreds of people held vigils across the country. But it is unlikely that anything will change unless the general cycle of violence and impunity is broken. “At least today I know that if I am killed people will hear about it,” says Mr Manzo. ■
+
