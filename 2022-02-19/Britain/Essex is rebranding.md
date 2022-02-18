@@ -1,0 +1,13 @@
+###### Not the only way
+# Essex is rebranding 
+##### A county with a reputation for brashness is trying to show off its posher side 
+![image](images/20220219_BRP001_0.jpg) 
+> Feb 19th 2022 
+THE NICEST stereotype about Essex-dwellers is that they do not take themselves too seriously. That is lucky, because Britons’ fondness for regional cattiness has long been indulged at their expense. For Charles Dickens, their county town of Chelmsford was “the dullest and most stupid spot on the face of the Earth”. Essex Man, shorthand for the archetypal Tory voter of the 1980s, was not meant as a term of affection (“right wing, keen hanger [of people], noisily rambunctious, no subtlety”, explained Campaign, a public-relations trade magazine).
+Essex’s 21st-century image is the gentler one popularised by “The Only Way Is Essex” (TOWIE), a reality-TV show. This is the county of white stilettos, pink prosecco, terracotta blusher and calling people “babes”. But its council has decided a rebrand is in order.
+
+At the northern border of the Essex it wants to showcase are the landscapes John Constable loved to paint. Along its eastern edge stretches the longest coastline of any English county save Cornwall, a mecca for migrating birds and seal-watchers. Nestled in its interior is Colchester, Britain’s oldest recorded town and the first capital of Roman England. TV adverts depicting Essex’s less TOWIE-esque side will air on Sky from March.
+At stake is more than pride. Britons were becoming more partial to “stay cations” even before the pandemic. Since 2020, covid-related travel restrictions have supercharged that trend, giving domestic holidays a boost that could endure. Yet Essex’s tourist board feels that stereotypes about the county have eclipsed its potential as a destination.
+A successful rebrand, whether of a company or a county, is a tricky balancing act. For Nick Cooper of Landor &amp; Fitch, a branding agency, the most important components are differentiation and relevance. Differentiation is about how much a brand stands out from others—and here Essex already scores highly. (Unlike, say, Lincolnshire, it at least conjures up a mental image.) Relevance is a brand’s ability to make people feel like they have a connection with it.
+Tweak either to appeal to new customers, though, and you risk putting off the existing ones. Promoting Essex’s posher side is a fine idea. But it was TOWIE that put it on the map.
+
