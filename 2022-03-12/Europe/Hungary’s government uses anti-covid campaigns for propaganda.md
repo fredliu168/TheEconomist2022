@@ -1,0 +1,11 @@
+###### Political boosters
+# Hungary’s government uses anti-covid campaigns for propaganda 
+##### Viktor Orban’s party uses a vaccination database as an email list 
+![image](images/20220312_eup504.jpg) 
+> Mar 12th 2022 
+CONSPIRACY BUGS have many theories about governments using covid measures to control people. In liberal democracies they tend to be twaddle. But in Hungary Viktor Orban’s government really is using covid vaccination campaigns to manipulate its citizens—not with microchips or 5G, but with old-fashioned propaganda.
+Mr Orban faces an election on April 3rd. In February, people who registered for jabs on the health ministry’s website began receiving thinly disguised campaign emails for Fidesz, the ruling party. These stated that the government was wisely keeping Hungary out of the war in Ukraine, and that the opposition had proposed sending troops. (It has not.)
+
+Recipients complained to the National Election Committee, which ruled that the emails were fine. They had been sent by the government’s information bureau, which, after all, has a duty to inform people. An appeal to the supreme court (whose president was picked by Fidesz) fared slightly better. Notifying the public of the government’s excellent policies was OK, it ruled, but denouncing the opposition was out of bounds.
+The war creates a problem for Mr Orban. He is friendly with Vladimir Putin, whom he calls a “reliable partner”. He opposes boycotting Russian oil and gas. The more Mr Putin bombs hospitals in Ukraine, the more Mr Orban is tarnished by association. Meanwhile, the emails show how he has blurred the separation of powers, using the state’s tools to entrench Fidesz’s control. “Government communications and Fidesz communications are completely inseparable,” says Peter Kreko of Political Capital, a think-tank. The government puts up promotional posters bearing the motto “Forward, not back”, which happens to be a Fidesz campaign slogan. Using a vaccination database as a campaign email list is just part of the game.
+
