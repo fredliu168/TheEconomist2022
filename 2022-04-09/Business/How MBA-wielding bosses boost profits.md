@@ -1,0 +1,12 @@
+###### Degrees of unconcern
+# How MBA-wielding bosses boost profits 
+##### Not by increasing sales, investment or productivity 
+![image](images/20220409_wbp502.jpg) 
+> Apr 9th 2022 
+HARVARD BUSINESS SCHOOL is all about its graduates’ “lifelong impact” on society. INSEAD exhorts its alumni to “drive business as a force for good”. Believe these and other MBA prospectuses, and a student arriving as an ordinary human being will leave as a virtuous do-gooder. Such claims have always strained credulity. A new working paper by Daron Acemoglu, Alex He and Daniel le Maire, a trio of economists, puts numbers on the disbelief.
+The authors look at newly appointed CEOs in America and Denmark. They find those with MBAs increase returns on assets in the five years after their appointment—by a total of three percentage points on average in America and 1.5 points in Denmark. But that is not because they boost sales, ratchet up investments or raise productivity. Rather, the higher returns are the result of suppressing workers’ wages, which fall by 6% in America and 3% in Denmark over the five years after an MBA takes charge. In short, ushering MBAs into corner offices seems to boost shareholder value by slicing the pie in certain ways, not by making the pie bigger.
+
+The researchers put this phenomenon down to change in business-school syllabuses. MBA programmes, says Mr He, have over the years grown less focused on technical aspects of finance and management, and more obsessed with maximising shareholder value and corporate leanness. The result, he and his colleagues contend, is that workers have increasingly been seen as “costs to be reduced” rather than an investment in human capital.
+People drawn to MBA courses in the first place may, of course, simply be more ruthless than holders of other degrees. But there may be something to the syllabus hypothesis. Chief executives who earned their MBAs after 1980 were likelier to stint on employees than graduates from earlier MBA classes. If the general shareholder-friendly zeitgeist which took hold around that time were the whole explanation for this intergenerational difference, then MBAs and non-MBAs ought to be equally affected. The study shows this was not the case. Further work will be needed to see whether feeding MBAs modules such as “Reimagining Capitalism” (Harvard) and “Business and Society” (INSEAD) does anything to reverse the trend.
+
+
