@@ -2,7 +2,7 @@
 # Semyon Bychkov speaks out for creative freedom amid conflict 
 ##### The conductor says bleak choices await Russia’s artists 
 ![image](images/20220404_bid001.jpg) 
-> Apr 4th 2022 
+> Apr 9th 2022 
 The Russian invasion of Ukraine has dealt a profound blow to Russian culture and its vitality, both at home and abroad. Everything that is Russian has become toxic, leading to bans on Russian works of art and cancellations of Russian artists’ performances. It is an irrational reaction on the part of the global community, but it reflects the intensity of revulsion felt at the horrors of war and suffering inflicted on the people of Ukraine. It also reflects our sense of helplessness, our pain and the desire to do something to register our rejection of, and revolt against, violence.
 Culture defines who we are and who we aspire to be. It mirrors the human condition in its infinite complexity. It is meant to enlighten and to nourish the good in us, but also reveals and warns us of its opposite. Art in itself is meant to serve human society. So are the artists.
 

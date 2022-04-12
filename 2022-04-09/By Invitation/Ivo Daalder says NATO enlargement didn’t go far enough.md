@@ -2,7 +2,7 @@
 # Ivo Daalder says NATO enlargement didn’t go far enough 
 ##### America’s former ambassador to the organisation says Russia would have been deterred, not provoked, by a bigger NATO 
 ![image](images/20220331_bid001.jpg) 
-> Apr 1st 2022 
+> Apr 9th 2022 
 “UKRAINE IS NOT just a neighbouring country for us,” declared Russia’s President Vladimir Putin in a rambling, raging speech in February which set the stage for war. “It is an inalienable part of our own history, culture and spiritual space.”
 It was a shocking speech which reverberated around the world. Western countries mobilised an unprecedented response to the invasion through sanctions and through military aid to Ukraine. Much of the rest of the world united in condemnation of Russia—though heavyweights such as India and China did not.
 

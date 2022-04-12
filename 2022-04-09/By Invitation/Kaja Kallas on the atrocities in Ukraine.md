@@ -2,7 +2,7 @@
 # Kaja Kallas on the atrocities in Ukraine 
 ##### Estonia’s prime minister argues that although the Soviet Union collapsed, its imperialist ideology never did 
 ![image](images/20220325_bid002.jpg) 
-> Apr 6th 2022 
+> Apr 9th 2022 
 I AM WRITING this essay as the world has woken up to the horrific scenes from Irpin and Bucha, suburbs of Kyiv in Ukraine. We see pictures of mass graves and civilians murdered by Russian troops. These photos remind Estonians of the killings by the Soviet regime and the NKVD, its law-enforcement ministry. Its machine of state terror murdered civilians in exactly the same way. Deportations and filtration camps take me and every other Estonian family back to painful memories of repression under Soviet occupation and of Gulag prison camps.
 Placing civilians at the frontline is a Russian war tactic. The proof? There are more civilian victims than there are military casualties—especially if you consider that it’s not accidental that a quarter of Ukraine’s population has been forced to flee from their homes or that Russia has engineered humanitarian catastrophes in cities such as Mariupol. Targeting civilians is a war crime according to international law. Ukraine is not a battlefield; it’s a crime scene. So too were Rwanda and Srebrenica.
 

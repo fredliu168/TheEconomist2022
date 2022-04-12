@@ -2,7 +2,7 @@
 # Ukraine sees a window of opportunity to push Russia back 
 ##### But a long struggle looms in the east 
 ![image](images/20220409_eup503.jpg) 
-> Apr 9th 2022 
+> Apr 8th 2022 
 ON MARCH 28TH Ukraine’s general staff warned that the Russian army, within striking distance of , still wanted to take the capital. A week later that army had largely evaporated from both sides of the Dnieper river north of the city. As Russian troops retreated to Belarus and Russia, pursued by Ukrainians, Kyiv began returning to normal. No shots, shells or missiles have been heard since March 30th. Non-essential shops are re-opening. Vitaly Klitschko, the mayor, has urged civilians to wait until the end of the week to return; not all are heeding his advice. But although the battle is won, the war is not.
 Russia says its war aim is now to “liberate” Donbas in eastern Ukraine; some think that , Russia’s president, wants to do so by Victory Day on May 9th, the date that commemorates Nazi Germany’s surrender in 1945. Before the war began in February Russia controlled a third of the territory; since February 24th it has taken a lot more, including some of , a port city.
 
@@ -17,6 +17,7 @@
 That is the sort of war that may be developing. Russia’s original aim was to envelop Ukrainian forces in Donbas by striking their rear, converging on the city of Dnipro. Were it to try that now, having abandoned Kyiv and Sumy, its own flanks would be vulnerable to Ukrainian attacks from the north—it would risk being encircled itself.
 So Russia is shifting to a more “brutish” approach, says Michael Kofman of CNA, a think-tank: “It looks as though they’re going to frontally assault Ukrainian forces to steadily squeeze them out of Donbas.” That would involve advancing south from Izyum, north from Mariupol and pressing in areas like Severodonetsk, where Ukrainian forces are trapped in a salient.
 In Donbas, Russia enjoys the advantage that its air force is stronger than it was around Kyiv, and Ukrainian air defences patchier. A frontal assault would also mean shorter supply lines, while the passage of time will mean less mud to contend with. Even so, Russia still seems to be repeating elementary mistakes it made in the first days of the war. “Even as late as [April 6th], we’re still seeing single files of Russian armour attempting to advance down roads, and then coming into problems when it’s met by Ukrainian resistance,” says the Western official.
+
 Mr Putin’s gamble is that he can wear down Ukraine’s army before his soldiers lose the will to fight. Some think, however, that a  may come first. Mark Cancian of CSIS, another think-tank, reckons that as casualties mount, supplies run out and morale dwindles, Russia’s generals will eventually have to come together and force Mr Putin to face facts. But there seems likely to be a lot more fighting before that. “This has similarities to major set-piece battles from prior world wars,” says Mr Kofman. “And now it’s going to come down not just to manpower and materiel, but also intangible factors—skill, force, employment and morale.” ■
 Read more of our recent coverage of the .
 
