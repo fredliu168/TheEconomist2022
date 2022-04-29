@@ -1,0 +1,22 @@
+
+        {
+            "props": {
+                "pageProps": {
+                    "bypassMicroapp": false,
+                    "buildNoContent": false,
+                    "buildNoPaywall": true,
+                    "buildNoAdverts": false,
+                    "buildNoAnalytics": false,
+                    "buildNoAuthentication": false
+                },
+                "__N_SSG": true
+            },
+            "page": "/",
+            "query": {},
+            "buildId": "IuQOeg9djZJ2fO-emNnau",
+            "assetPrefix": "/interactive/graphic-detail/2022/04/30/american-homebuyers-are-flocking-to-warm-suburbs",
+            "isFallback": false,
+            "gsp": true,
+            "scriptLoader": []
+        }
+    
