@@ -13,7 +13,7 @@
             },
             "page": "/",
             "query": {},
-            "buildId": "IuQOeg9djZJ2fO-emNnau",
+            "buildId": "8e65zw_uHbwgfA3VzqYE9",
             "assetPrefix": "/interactive/graphic-detail/2022/04/30/american-homebuyers-are-flocking-to-warm-suburbs",
             "isFallback": false,
             "gsp": true,

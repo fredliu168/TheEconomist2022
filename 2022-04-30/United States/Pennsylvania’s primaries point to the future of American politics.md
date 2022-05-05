@@ -1,6 +1,6 @@
 ###### The Keystone State
 # Pennsylvania’s primaries point to the future of American politics 
-##### Trumpism dominates among Republicans and Democrats shuffle to the centre 
+##### Trumpism dominates among Republicans, and Democrats shuffle to the centre 
 ![image](images/20220430_USP005_0.jpg) 
 > Apr 30th 2022 
 THE POLITICAL carnival of the Senate primary season in Pennsylvania—featuring a bald, tattooed giant with a billy-goat beard, a celebrity talk-show host and a hedge-fund executive who recently decamped from Connecticut—is settling into an intriguing pattern. The Republican candidates are doing what Republicans do now: panicking about the woke left and rhapsodising about Donald Trump. But the Democrats, rather than trying to excite their own base by espousing progressive causes, are edging towards the centre.
