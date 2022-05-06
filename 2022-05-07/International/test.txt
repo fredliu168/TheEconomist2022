@@ -1,0 +1,22 @@
+
+        {
+            "props": {
+                "pageProps": {
+                    "bypassMicroapp": false,
+                    "buildNoContent": false,
+                    "buildNoPaywall": true,
+                    "buildNoAdverts": false,
+                    "buildNoAnalytics": false,
+                    "buildNoAuthentication": false
+                },
+                "__N_SSG": true
+            },
+            "page": "/",
+            "query": {},
+            "buildId": "Cp8wmcydZbV7RkiC3jwsN",
+            "assetPrefix": "/interactive/briefing/2022/05/03/press-freedom",
+            "isFallback": false,
+            "gsp": true,
+            "scriptLoader": []
+        }
+    
