@@ -13,7 +13,7 @@
             },
             "page": "/",
             "query": {},
-            "buildId": "Cp8wmcydZbV7RkiC3jwsN",
+            "buildId": "pUKPkUK1u-DJgTLhq07iF",
             "assetPrefix": "/interactive/briefing/2022/05/03/press-freedom",
             "isFallback": false,
             "gsp": true,

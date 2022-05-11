@@ -16,6 +16,6 @@
 
 In a sample of 13,659 people surveyed by YouGov, a pollster, just 28% of white or older Hispanic evangelicals wanted abortion to be “always” or “mostly” legal. Despite the Catholic and Orthodox churches’ opposition, 53% of whites and 65% of Hispanics in these groups favoured abortion rights. Among agnostics and people who did not list a religion, the shares were 61% for those who did not attend college, and 79% for people who did. Other strong backers were Jews (76%) and atheists (a hefty 92%).
 America’s political coalitions reflect these cleavages already. However, whites who are non-evangelical Protestants, or who are not religiously affiliated and lack college degrees, favour abortion rights more than they do Democratic candidates. Their loyalty may now be up for grabs. ■
-Sources: YouGov; General Social Survey; Pew Research Centre; Caitlyn Myers
+Sources: YouGov; General Social Survey; Pew Research Centre; Caitlin Myers
 
 

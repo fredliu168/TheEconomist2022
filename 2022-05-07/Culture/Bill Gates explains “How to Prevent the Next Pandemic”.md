@@ -3,6 +3,7 @@
 ##### His proposals for nipping infections in the bud are worth exploring 
 ![image](images/20220507_cud001.jpg) 
 > May 7th 2022 
+To sign up to our newsletters, including our mind-expanding science coverage in the Simply Science newsletter, .
 How to Prevent the Next Pandemic. By Bill Gates. Knopf; 304 pages; $28. Allen Lane; £25
 FIRST, THE climate. Next, plagues. Bill Gates’s career-switch from entrepreneur and philanthropist to  is developing nicely. It is just over a year since he published “”. Now he sets out to explain “”.
 
@@ -19,5 +20,5 @@
 That does sound pretty optimistic, especially given the difficulty of eliminating even single viruses from the planet—something that has been achieved only for smallpox and for a cattle disease called rinderpest, and has notably not happened for polio, which still lingers in a few places despite a decades-long campaign to get rid of it. But, as Arthur C. Clarke put it in his second law of science, “The only way of discovering the limits of the possible is to venture past them into the impossible.”
 Whether anything like GERM will ever come to pass, as the world’s attention shifts from the crisis of covid-19 to the catastrophe in Ukraine, remains to be seen. But if this book stimulates even a little limit-pushing of the sort Mr Gates suggests, it will have served its purpose well. ■
 Dig deeper
-All our stories relating to the pandemic can be found on our . You can also find trackers showing ,  and the virus’s spread across .
+You can listen to our , and all our stories relating to the pandemic can be found on our . You can also find trackers showing ,  and the virus’s spread across .
 
