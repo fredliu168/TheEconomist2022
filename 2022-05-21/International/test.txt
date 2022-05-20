@@ -1,0 +1,22 @@
+
+        {
+            "props": {
+                "pageProps": {
+                    "bypassMicroapp": false,
+                    "buildNoContent": false,
+                    "buildNoPaywall": true,
+                    "buildNoAdverts": false,
+                    "buildNoAnalytics": false,
+                    "buildNoAuthentication": false
+                },
+                "__N_SSG": true
+            },
+            "page": "/",
+            "query": {},
+            "buildId": "DksYnzjkviZDJzEmyVWlc",
+            "assetPrefix": "/interactive/international/2022/05/17/the-putin-show",
+            "isFallback": false,
+            "gsp": true,
+            "scriptLoader": []
+        }
+    

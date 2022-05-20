@@ -1,0 +1,22 @@
+
+        {
+            "props": {
+                "pageProps": {
+                    "bypassMicroapp": false,
+                    "buildNoContent": false,
+                    "buildNoPaywall": true,
+                    "buildNoAdverts": false,
+                    "buildNoAnalytics": false,
+                    "buildNoAuthentication": false
+                },
+                "__N_SSG": true
+            },
+            "page": "/",
+            "query": {},
+            "buildId": "Tdu58oFEv6a70TRrBb1xL",
+            "assetPrefix": "/interactive/graphic-detail/2022/05/21/the-brazilian-amazon-has-been-a-net-carbon-emitter-since-2016",
+            "isFallback": false,
+            "gsp": true,
+            "scriptLoader": []
+        }
+    
