@@ -1,0 +1,12 @@
+###### The great rain robbery
+# Why Peruvian villagers tore down a flood-warning system 
+##### It was made to keep them safe. They thought it was stealing the rain 
+![image](images/20220604_AMP005.jpg) 
+> Jun 2nd 2022 
+When a drought swept across Hualcán, a village in Peru, in 2016 many of its indigenous residents felt they knew what was to blame: antennae at Lake 513, a blue-green pool of water some 1,400 metres above them. Villagers had seen scientists make the trek to visit the antennae over the years, but few knew why. Some said the masts had been put there to block rains to benefit a copper mine. In November that year dozens of Quechua villagers and farmers dismantled them. Within hours, it started raining, claims Juan Reyes, a local. “The antennae seemed to be withholding the rain,” he says. 
+They were not. Lake 513 is one of hundreds of new lakes that have formed beneath Peru’s tropical glaciers as climate change melts them, threatening villages below with floods and landslides. The antennae were part of a system of sensors, video cameras and radio signals that would trigger sirens downstream when disaster struck.
+The story highlights a difficulty involved in helping Peruvians adapt to climate change. Local farmers have vowed to bar scientists from re-installing the system, which would give the inhabitants of Carhuaz downstream about 15 minutes to evacuate. Now the municipality relies on workers at another project to report potential landslides. Officials plan to ring bells and blow whistles.
+Christian Huggel of the University of Zurich, who spent four years developing the dismantled system, says his team underestimated the cultural challenges. For locals, water scarcity seems a more urgent problem than a disaster that may never happen. Similarly in Huaraz, a city where thousands live in a flood path, some residents have opposed the mapping of flood risks because of concerns about property values.
+Today batteries from the dismantled early-warning system at Lake 513 gather dust in the village church. Justina Rodríguez, a 70-year-old farmer who was never taught to read or write, says she hasn’t heard of climate change and is not worried about a disaster. But she notes that the days are hotter, the nights colder, and the rains are less predictable. Now that the antennae are gone, she says, if another drought strikes, she won’t know what to blame.
+
+
