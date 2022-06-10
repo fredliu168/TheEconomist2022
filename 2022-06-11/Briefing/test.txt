@@ -1,0 +1,22 @@
+
+        {
+            "props": {
+                "pageProps": {
+                    "bypassMicroapp": false,
+                    "buildNoContent": false,
+                    "buildNoPaywall": true,
+                    "buildNoAdverts": false,
+                    "buildNoAnalytics": false,
+                    "buildNoAuthentication": false
+                },
+                "__N_SSG": true
+            },
+            "page": "/",
+            "query": {},
+            "buildId": "DOL3ALBdojeP8WOWktgza",
+            "assetPrefix": "/interactive/briefing/2022/06/11/huge-foundation-models-are-turbo-charging-ai-progress",
+            "isFallback": false,
+            "gsp": true,
+            "scriptLoader": []
+        }
+    
