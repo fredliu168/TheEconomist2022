@@ -1,0 +1,1 @@
+{"props":{"pageProps":{"bypassMicroapp":false,"buildNoContent":false,"buildNoPaywall":true,"buildNoAdverts":false,"buildNoAnalytics":false,"buildNoAuthentication":false},"__N_SSG":true},"page":"/","query":{},"buildId":"Ll0jQLO9GAwTIRt5ogwah","assetPrefix":"/interactive/international/2022/06/15/does-the-tank-have-a-future","isFallback":false,"gsp":true,"scriptLoader":[]}
