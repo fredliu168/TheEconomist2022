@@ -1,0 +1,22 @@
+
+        {
+            "props": {
+                "pageProps": {
+                    "bypassMicroapp": false,
+                    "buildNoContent": false,
+                    "buildNoPaywall": true,
+                    "buildNoAdverts": false,
+                    "buildNoAnalytics": false,
+                    "buildNoAuthentication": false
+                },
+                "__N_SSG": true
+            },
+            "page": "/",
+            "query": {},
+            "buildId": "TMTMwr7Igzg51guC4kP_a",
+            "assetPrefix": "/interactive/essay/2022/07/01/how-hong-kong-became-a-police-state",
+            "isFallback": false,
+            "gsp": true,
+            "scriptLoader": []
+        }
+    

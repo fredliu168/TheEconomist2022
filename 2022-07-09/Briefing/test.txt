@@ -1,0 +1,22 @@
+
+        {
+            "props": {
+                "pageProps": {
+                    "bypassMicroapp": false,
+                    "buildNoContent": false,
+                    "buildNoPaywall": true,
+                    "buildNoAdverts": false,
+                    "buildNoAnalytics": false,
+                    "buildNoAuthentication": false
+                },
+                "__N_SSG": true
+            },
+            "page": "/",
+            "query": {},
+            "buildId": "TLwzNxSjmInTmesHVLln9",
+            "assetPrefix": "/interactive/briefing/2022/07/09/the-all-conquering-quaver",
+            "isFallback": false,
+            "gsp": true,
+            "scriptLoader": []
+        }
+    
