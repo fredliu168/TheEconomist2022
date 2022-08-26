@@ -1,0 +1,19 @@
+###### Diversity training
+# Workplace diversity programmes often fail, or backfire 
+##### Many may do more to protect against litigation than to reduce discrimination 
+> Aug 25th 2022 
+
+Diversity and anti-harassment training is a booming industry. International company surveys suggests the number of people hired for jobs with “diversity” or “inclusion” in the title has more than quadrupled since 2010. Attempts to reduce discrimination and harassment in the workplace are laudable, and make good business sense. But only if they work. 
+Unfortunately, the consensus now emerging among academics is that many anti-discrimination policies have no effect. What is worse, they often backfire. Some among them suspect the reason many interventions nevertheless remain popular is a hidden motive: that they are used not to reduce discrimination, but to shield against litigation. 
+Successful anti-discrimination programmes should, for instance, help make firms’ management less male and pale. For a forthcoming book, Frank Dobbin and Alexandra Kalev tested this proposition. They collected data on anti-discrimination training programmes and targeted grievance procedures at 829 American companies implemented from 1971 to 2002, and how they affected the representation of ethnic groups and genders in management up to 2015. They found that most did the opposite of what one might expect. On average, 20 years after these interventions were introduced, the group that benefited most were white men. 
+
+
+What about the short-term? One large experiment compared the effects of eight one-time interventions to reduce unintentional biases, such as reading a vivid story with a black hero and a white villain. Among 6,321 non-black Americans, all reduced implicit bias favouring white over black people immediately after. But when retested one to five days later, the effects of all interventions had faded. Statistically speaking, the effects of all but one were nil.
+Yet some programmes worked well. Mr Dobbin and Ms Kalev found that cultural-inclusion training, with an emphasis on how managers could increase their teams’ productivity with a more varied crew, was linked with greater diversity among higher-ups later on. Targeted recruitment, mentor programmes, and cross-training between groups, were also found to help. 
+This is in line with a recent study by Oriane Georgeac and Aneeta Rattan, who found that atypical candidates feel less likely to be included when given a company statement with a business case for diversity instead of one with a simpler acknowledgment of its importance. They suggest explicit rationales make some suspect they will be judged based on stereotypes—rather than how they do their job.
+
+
+You can forgive firms their initial eagerness to implement programmes of unproven effectiveness. In global surveys, 75% of them now say diversity is a stated value or priority. But if they mean what they say, such firms should now be shifting resources, away from programmes that do not work (or worse) and towards those that do. 
+But it could be, at least in America, that the courts will need to move first. Many employers may be motivated to institute diversity policies less by productivity or morality than by legal liability. In a study of 1,188 federal civil-rights opinions decided between 1965 and 2014, Lauren Edelman, a researcher, found that judges increasingly considered such practices evidence of compliance with civil-rights laws, regardless of effectiveness. If judges start paying more attention to which programmes work, it may force firms to do so too.■
+Sources: “Getting to diversity”, by F. Dobbin and A. Kalev, Harvard University Press, 2022; “Reducing implicit racial preferences”, by C.K. Lai et al., Journal of Experimental Psychology, 2016; ZoomInfo
+
