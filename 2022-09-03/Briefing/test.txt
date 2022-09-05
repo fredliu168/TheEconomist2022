@@ -1,0 +1,22 @@
+
+        {
+            "props": {
+                "pageProps": {
+                    "bypassMicroapp": false,
+                    "buildNoContent": false,
+                    "buildNoPaywall": true,
+                    "buildNoAdverts": false,
+                    "buildNoAnalytics": false,
+                    "buildNoAuthentication": false
+                },
+                "__N_SSG": true
+            },
+            "page": "/",
+            "query": {},
+            "buildId": "bSv44lGqq1YuUfOwBKpBf",
+            "assetPrefix": "/interactive/briefing/2022/09/03/american-policy-is-splitting-state-by-state-into-two-blocs",
+            "isFallback": false,
+            "gsp": true,
+            "scriptLoader": []
+        }
+    
