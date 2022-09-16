@@ -1,0 +1,19 @@
+###### Floodgates opened
+# Devastating floods like Pakistan’s will be more common in a warming world 
+##### Rapidly melting glaciers could mean more such tragedies 
+> Sep 15th 2022 
+
+
+During a visit to Pakistan this week, António Guterres, the un secretary-general, said he had “simply no words to describe” the harm inflicted by the floods that have submerged the country during the past month. Numbers can at least quantify the extent of the disaster. More than 1,400 people have died and 33m have been displaced; 1.7m homes have been damaged. Half of the country’s cotton crop has been washed away, and this year’s wheat production could be largely written off. The government estimates that the floods will cost $30bn (9% of gdp).
+Pakistani officials have exhorted richer countries to help—not just out of altruism, they argue, but because those countries’ carbon-dioxide emissions are partly responsible for the catastrophe. According to a study published on September 15th by the World Weather Attribution Project (WWA), a network of climate modellers, global warming likely increased the heavy rain that led to the flooding.
+
+The first link between the floods and broad climate trends is overall temperatures. In April and May a heatwave scorched much of Pakistan and neighbouring India. An earlier WWA study found that global warming has made such temperatures 30 times more likely than during pre-industrial times. And air picks up more moisture when it is hotter, increasing the chances of heavy rain. Total rainfall in Pakistan this August was more than triple the average during the past 30 years. And based on various simulations, WWA’s scientists estimate that the worst of this year’s rains were about 50% more intense than they would have been had the climate not already warmed by 1.2°C. 
+The 7,200 glaciers in northern Pakistan are also melting faster than in the past, largely as a result of greenhouse-gas emissions. Along with other Himalayan glaciers, they are named the “third pole” because they contain the world’s largest store of ice outside of polar regions. A study published this June finds that temperatures across the region rose by 0.42°C per decade in 1980-2018, twice the global average rate. Other forms of air pollution are also accelerating the rate of glacial shrinkage. When black particles settle on ice, they darken its surface, causing glaciers to absorb more sunlight and melt even faster.
+
+
+As a result, researchers using satellite imagery have estimated that in 2000-19, ice sheets in northern Pakistan shrank by 4.6 gigatonnes (Gt, equivalent to about 1.8m Olympic swimming pools) per year. The exact amount of melting in 2022 has not yet been calculated. However, glacial lakes in the northern region of Gilgit-Baltistan released sudden outbursts of water—a sign of rapid melting—16 times this year, compared with just five or six episodes per year in the recent past.
+The third pole’s sweating glaciers are the source of South Asia’s main rivers. Their melting, combined with the rise in rainfall, has swelled the region’s waterways. From 1980 to 2018, flows in the upper parts of the Indus, Pakistan’s biggest river, increased by 3.9Gt per decade.
+The situation is likely to get worse. Even under rosy climate scenarios, in which temperatures rise by at most 2°C above pre-industrial levels by 2100, one-third of Himalayan ice could vanish during this century. Poor countries in the region will suffer as a result. Although their emissions are now rising, they produced just a tiny fraction of the current stock of greenhouse gases that helped cause their plight.■
+
+Sources: UNOSAT; GLIMS glacier database; Pakistan Meteorological Department; “Accelerated global glacier mass loss in the early twenty-first century”, by R. Hugonnet et al., , 2021; “The imbalance of the Asian water tower”, by T. Yao et al., , 2022
+
