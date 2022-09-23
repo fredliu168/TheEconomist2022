@@ -1,0 +1,13 @@
+###### Capitol Markets
+# Do lawmakers beat the market? 
+##### New funds will allow average Americans to invest like politicians 
+![image](images/20220924_FNP506.jpg) 
+> Sep 22nd 2022 
+Where are america’s greatest investors? Wall Street is the obvious place to look; after all, it is home to lots of hedge-fund managers who would claim the title. Other gurus reside in Greenwich, Connecticut; some have relocated to Palm Beach, Florida; and there is at least one contender in Omaha, Nebraska. Perhaps, though, the correct answer is Washington, dc.
+Americans hate politicians-cum-stockpickers. Famous examples include Paul Pelosi, husband of Nancy, the Democrat speaker of the House, and Richard Burr, a Republican senator. Some suspect their success is not solely attributable to their trading talents. An investigation by the , a newspaper, found that between 2019 and 2021 a third of congresspeople reported trades by themselves or a close family member—and half of these sat on committees where they might have gleaned pertinent information.
+The public might soon be able to get in on the act, however. On September 15th Subversive Capital, an investment firm which seeks to “subvert the status quo”, announced it had filed for two new exchange-traded funds (etfs) that will track trades by politicians. One, using the ticker “nanc” in homage to Ms Pelosi, will copy trades by Democrats and family members; another called “kruz”, a tribute to Ted Cruz, a Texas senator, will mimic Republicans.
+But there is a snag in the logic. It is not clear that politicians actually do all that well. Recent work by researchers at Dartmouth College finds no evidence of superior returns from 2012 to 2020. Politicians’ picks underperform the markets by 0.3% over a six-month period. The academics did, though, note that insider trades might be masked by other poor investments.
+That is not the only problem with the idea. Under the Stop Trading on Congressional Knowledge Act (“stock Act”) members of Congress have to report any trade worth over $1,000, but only within 45 days. If politicians are trading on inside information, the returns of a fund operating on stale information will lag their portfolios.
+Perhaps that is the point. Unusual Whales, a data firm which works for Subversive Capital, advocates a stock-trading ban. Politicians have been shamed into supporting the idea. On September 14th Ms Pelosi said Democrats would soon bring forward legislation. Even with the nanc etf the public may never have been able trade like Mr and Mrs Pelosi. But soon the powerbrokers may be out the game, too. ■
+
+

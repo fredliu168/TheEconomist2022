@@ -1,0 +1,22 @@
+
+        {
+            "props": {
+                "pageProps": {
+                    "bypassMicroapp": false,
+                    "buildNoContent": false,
+                    "buildNoPaywall": true,
+                    "buildNoAdverts": false,
+                    "buildNoAnalytics": false,
+                    "buildNoAuthentication": false
+                },
+                "__N_SSG": true
+            },
+            "page": "/",
+            "query": {},
+            "buildId": "3gUmhYeUX6fHGaKtm5hnj",
+            "assetPrefix": "/interactive/briefing/2022/09/24/war-in-ukraine-has-reshaped-worlds-fuel-markets",
+            "isFallback": false,
+            "gsp": true,
+            "scriptLoader": []
+        }
+    
