@@ -1,0 +1,18 @@
+###### Steady as she goes
+# Since 1310 bond yields have fallen with metronomic regularity 
+##### They are projected to drop below zero for good in 2066 
+> Oct 6th 2022 
+
+
+FROM 2015 to 2021 long-term interest rates sat at record lows. On average, during this period ten-year government bonds yielded 1.9% in America, 1.1% in Britain and zero in Germany. But just as investors got used to vanishingly low rates, those rates vanished. In 2022 America’s yields have risen from 1.5% to 3.8%, Britain’s from 1.0% to 4.1% and Germany’s from -0.2% to 2.0%.
+Such abrupt surges have raised fears of an imminent recession, and caused asset prices to plunge. Nonetheless, increases in long-term yields are likely to be temporary.
+With apologies to homeowners with variable-rate mortgages, many borrowers have done well in 2022 because prices have risen faster than expected, inflating away some of their debts. Even after their recent rise, current ten-year government bond yields lag inflation over the past 12 months by five percentage points in America and a whopping ten points in the Netherlands.
+This gap reflects investors’ expectation that inflation is likely to subside fairly soon. But recent research on long-run trends in interest rates suggests that creditors hoping for healthy real yields in future are still likely to be disappointed.
+
+
+In 2020 Paul Schmelzing, an economist, published a dataset of interest rates and inflation dating back to the 1300s, in countries representing four-fifths of advanced-economy GDP. It showed that real long-term yields fell from the low double digits in the early Renaissance to the low single digits today. The trend applied to both public- and private-sector debt, and to seven of eight countries studied (the exception was Spain, where rates averaged 27% following Napoleon’s defeat in 1814).
+Last month Mr Schmelzing, along with Kenneth Rogoff of Harvard and Barbara Rossi of Pompeu Fabra University, released a working paper that tried to identify key points in history when the path of interest rates changed. Surprisingly, GDP-weighted real rates followed nearly a straight-line long-term trajectory during the entire period, falling by an average of 0.016 percentage points per year. The only two events that appeared to disrupt the trend were the Black Death and a wave of sovereign-debt defaults in the late 1550s. All other deviations—including those following the founding of America’s Federal Reserve in 1913 and the advent of inflation-targeting central banks—could not be distinguished statistically from random chance.
+This trend may be of little use to speculators, as rates have drifted towards its level only over long periods. It underestimated real borrowing costs by two percentage points on average from 1363-1479, and then overestimated them by one point from 1480-1625. Nonetheless, people investing on behalf of their grandchildren should take note: the 700-year pattern suggests that current real rates should be just 0.7%.
+The authors speculate that the trend may be more likely to flatten out as rates approach negative territory than to continue for ever. However, they “do not see evidence of that yet”. A simple linear extrapolation implies that on average, real rates will sink below zero for good in 2066.
+Chart sources: “Eight centuries of global real rates, R-G, and the ‘suprasecular’ decline, 1311-2018”, Paul Schmelzing, 2020; Refinitiv Datastream; World Bank
+
