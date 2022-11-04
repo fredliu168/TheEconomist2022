@@ -1,0 +1,22 @@
+
+        {
+            "props": {
+                "pageProps": {
+                    "bypassMicroapp": false,
+                    "buildNoContent": false,
+                    "buildNoPaywall": true,
+                    "buildNoAdverts": false,
+                    "buildNoAnalytics": false,
+                    "buildNoAuthentication": false
+                },
+                "__N_SSG": true
+            },
+            "page": "/",
+            "query": {},
+            "buildId": "mMKPF5eTMjL7p_2xPiJh2",
+            "assetPrefix": "/interactive/briefing/2022/11/05/the-world-is-going-to-miss-the-totemic-1-5c-climate-target",
+            "isFallback": false,
+            "gsp": true,
+            "scriptLoader": []
+        }
+    
