@@ -1,0 +1,13 @@
+###### Constituent parts
+# Britain’s electoral boundaries are being redrawn 
+##### A painstaking and non-partisan process is close to completion 
+![image](images/20221112_BRP503.jpg) 
+> Nov 10th 2022 
+Electoral cartographers are busily redrawing the map of parliamentary constituencies. The Boundary Commission for England (which will account for 543 of Britain’s 650 seats) released its latest proposals on November 8th, after a long public consultation. Their decisions can stir strong feelings, but  is blessedly non-partisan.
+Under the current arrangements, some seats have more than twice the population of others. In 2020 Parliament voted to create roughly similar-size districts of 73,393 electors, give or take 5%. What’s more, in the two decades since the map was last redrawn, Britain’s population has grown more rapidly in the south. The upshot of the process, which will be concluded next summer, is a loss of seats in Wales, Scotland and Northern England, and gains in London, southern and eastern England. 
+That will probably leave the Conservatives up to ten seats better off, gaining in areas where they have traditionally done best, reckons Robert Hayward, a Tory poll-watcher. But the party of government may still see some notable losses. The seat of Sir Gavin Williamson, who resigned from the cabinet on November 8th after accusations of bullying, is to be merged with a neighbour’s. The rejigged seat of the defence secretary, Ben Wallace, is now probably more marginal.
+The Boundary Commission for England insists it is deaf to any political fallout. The process is overseen by a judge, and MPs cannot tinker with its decisions before they take effect. But the commissioners have tried to redraw the map in a way that voters feel is coherent. In rural areas, that meant seeing whether the boundaries were following the paths of rivers and hills; in urban ones, roads and Tube lines. 
+They try not to separate communities from their schools or places of worship. “People will come to us and say ‘Actually the public-transport links where I live go west, not east, and here’s a bus timetable to prove it’,” says Tim Bowden, the secretary to the commission. 
+Britons seem particularly sensitive to being clumped in with the wrong neighbours. Forsbrook Parish Council protested vigorously against being transferred to the Stoke-on-Trent constituency, claiming that it had “very little in common” with the city. In Dorset 250 residents complained that the new electoral map had placed them in North, rather than West, Dorset. It fell to Simon Hoare, the local MP, “to address the misconception that people will somehow be constrained in their shopping and other activities by parliamentary boundaries”.
+
+
