@@ -1,0 +1,17 @@
+###### Poisoned chalices
+# International sporting events are increasingly held in autocracies 
+##### Regimes time crackdowns to minimise embarrassment over human rights 
+> Nov 17th 2022 
+
+
+There are no democratic litmus tests for hosts of global sporting events. From the Nazi Olympics to Argentina’s football World Cup in 1978, unsavoury regimes have long used such competitions to burnish their prestige and supercharge nationalism. But 30 years ago, the vast majority of tournaments took place in democracies. Only during the past decade have cases like the 2022 men’s football World Cup, which kicks off in Qatar on November 20th, begun to look like the norm again.
+According to data compiled by Adam Scharpf, of the University of Copenhagen, and two colleagues, the share of international sporting events hosted by autocracies fell from 36% in 1945-88 to 15% in 1989-2012. Since then, it has rebounded to 37%. Although the total number of democracies in the world has also declined from the post-cold-war high, only a few recent autocratic hosts are lapsed democracies.
+The pattern is reflected both in high-profile competitions—since 2008, China has hosted two Olympics, and Russia an Olympics and a World Cup—and in smaller ones. The World Athletics Championships, for example, were held only in democracies from 1983 to 2011. Since then, four of the six hosts chosen have been autocratic.
+
+
+Ironically, this trend stems largely from democratic decision-making. Studies have shown that big sporting events tend to be bad deals for host countries. Cities have to build costly stadiums that are rarely used afterwards, and that fail to spark economic development in surrounding areas. As a result, governments accountable to their taxpayers have become less enthusiastic about being the host. This year’s Winter Olympics wound up in Beijing almost by default, after all four cities in democratic countries that had bid backed out. The only alternative was Almaty, Kazakhstan. 
+Autocrats, in contrast, are free to squander public funds. The main threat they face as hosts is that protesters or the press will highlight human-rights violations. But rather than encouraging reform, the international spotlight seems to lead such regimes to become even more repressive in the run-up to sporting events.
+Using “repression scores” calculated by other scholars that measure how much violence states inflict on their citizens, Mr Scharpf has shown that hosts of the Olympics and football tournaments tend to crack down two years before opening ceremonies. Once the world starts watching, they ease off. For example, according to Human Rights Watch, ahead of the Olympics of 2008 China pre-emptively arrested people who were likely to express discontent. As a result, official “protest zones” were empty during the event. 
+Qatar is following this pattern. In recent weeks it has moved thousands of foreign workers, whose treatment in the country has drawn widespread criticism, out of its capital, where their plight would be most likely to draw attention. If the governing bodies of big sporting events do not want to encourage such policies, they will need to work out how to make hosting them more attractive for democracies.■
+Chart source: “International Sports Events and Repression in Autocracies: Evidence from the 1978 FIFA World Cup,” by Adam Scharpf, Christian Glaessel and Pearce Edwards, 2022
+
