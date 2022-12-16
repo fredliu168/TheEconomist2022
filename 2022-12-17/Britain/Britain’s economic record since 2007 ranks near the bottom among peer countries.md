@@ -1,0 +1,21 @@
+###### Data and declinism
+# Britain’s economic record since 2007 ranks near the bottom among peer countries 
+##### Many Western countries have had a rough time of it. But Britain has some specific maladies 
+> Dec 15th 2022 
+
+
+Shortly after becoming prime minister in 2007, Gordon Brown crowed that Britain had enjoyed “the longest uninterrupted period of economic growth in the history of our country”. In polling by Gallup that year, with the global financial crisis about to begin, 53% of respondents said that their lives were improving. This year just 28% agreed that life was getting better. Faith in government has also taken a hit, particularly since the Brexit vote in 2016. 
+There are some immediate explanations for this sense of disenchantment: from  to double-digit inflation (of 10.7% year on year in November, a slight easing on the previous month). And over the past 15 years much of the West has suffered from similar maladies to Britain: high inequality, slowing economic growth and bouts of political instability. Some big, rich countries, such as Italy and Japan, have fared worse over that period on measures like real growth in median incomes. 
+But a closer look at the data reveals that there are specific reasons for Britons to worry. The country has historically tried to position itself as a bridge between Europe and America. With that in mind  has benchmarked Britain against a group of other sizeable English-speaking countries—Australia, Canada and the United States—and against France and Germany, the two biggest continental European economies. Although there is no single all-encompassing measure of national well-being, the changes in Britain since 2007 rank it at or near the bottom of this group on a wide variety of economic indicators.
+
+
+On a per-person basis, Britain’s economy has grown by 7% in real terms since 2007. That is just ahead of Canada and France, both at 6%, but behind America, Australia and Germany, which sit at 13-16%. Unfortunately, much of Britain’s meagre growth has come not from working more efficiently but rather from working more. Over the past 15 years British labour  has climbed by just 4%, slightly behind France’s 6% and far worse than the other countries’ double-digit gains.
+Instead of combining Europe’s and America’s strengths, Britain appears to be saddled with the weaknesses of both—plodding growth and entrenched inequality. At the start of the financial crisis, after accounting for differences in the cost of living in each country, the median household income in Britain was on par with that of Germany. Meanwhile, earnings for relatively poor people—those in the tenth percentile of the income distribution—were roughly similar in Britain and America. 
+
+
+Today, things look far grimmer: Britain comes last by a hefty margin at both the tenth and 50th percentiles. Britain’s  are also particularly pronounced. Although the concentration of prosperity in “superstar cities” is widespread, Britain is unusual in having such a dominant mega-city. London and its environs (ie, the South East and the East of England) make up 37% of Britain’s population but 47% of its gdp.
+
+
+Outside the economic realm, Britain’s record is mixed rather than poor. The changes in its death rate since the emergence of covid-19, and in its life expectancy for 65-year-olds since 2007, are better than America’s but worse than the other countries’. Education is a relative bright spot. In international pisa tests of maths, science and reading skills among 15-year-olds, Britain ranked fourth among the six countries in 2007 but now comes second to Canada. The country maintains a disproportionately large share of highly rated universities. And the share of British respondents to Gallup polls who say they would like to emigrate, though still the highest in the group, has fallen to 20%, from 33% in 2007. Given Britain’s underwhelming economy and the darkening mood, insularity may help explain that.■
+Chart sources: BIS; Gallup; IMF; OECD; ONS; World Federation of Exchanges; 
+
