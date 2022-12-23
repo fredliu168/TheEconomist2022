@@ -1,0 +1,13 @@
+###### Optical cryptography
+# A better way to process encrypted data 
+##### Fully homomorphic encryption is easy if you do it with light 
+![image](images/20221224_STD002.jpg) 
+> Dec 20th 2022 
+The digitisation of modern life means data security is ever more important. Data in storage and transit are normally encrypted, and therefore safe from prying eyes. But for computation to happen, they usually have to be unencrypted first. This is a particular problem with so-called cloud computing (in reality, just row upon row of stacks of computers in server farms), which happens beyond a data-owner’s control. And it is getting worse, as more and more devices refer calculations back to various clouds, rather than doing them locally.
+A possible answer is a technique called fully homomorphic encryption (FHE). This permits computation directly on encrypted data. Someone with the correct key could, using FHE, send information to a cloud, have it processed there, and get the results back without putting anything sensitive at risk. 
+The difficulty with this approach is that it is slow. Very slow. Nick New, boss of Optalysys, a small firm in Britain, says a computation that takes a second on unencrypted data might require 1m seconds with FHE. Mr New’s answer, as his firm’s name suggests, is to employ optical rather than electronic computing. 
+ encodes data in beams of light instead of electric currents. The computation is done by manipulating the beams. This works well for a type of mathematics called linear algebra—and luckily, Fourier transforms, a way of speeding up all the multiplications involved in FHE, are easily handled this way. Mr New reckons FHE and optical computing together would reduce the processing time in his putative problem from 1m seconds to between ten and 100. 
+In Optalysys’s system, the information is encoded into the phase and amplitude of many different beams. These are then sent in particular directions by structures called waveguides, before being shone into free space, where they combine and interfere with each other. 
+The computation happens when the resulting wavefront passes through a specially designed lens, the output of which is translated into an electrical signal, for more conventional processing, by a camera. A bonus is that, like all optical computing, the actual computation consumes no energy, saving both money and carbon-dioxide emissions.
+
+
